@@ -1,0 +1,3 @@
+1. Quem inventou o sistema de controle de versão Git e porque?
+2. Quem atualmente é dono do Git e porque?
+3. Existe outra maneira...
